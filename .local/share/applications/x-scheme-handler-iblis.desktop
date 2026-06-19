@@ -1,0 +1,8 @@
+[Desktop Entry]
+Exec=/usr/lib/nekobox/nekobox -deeplink %u
+MimeType=x-scheme-handler/nekoray;x-scheme-handler/nekobox;x-scheme-handler/v2raytun;
+Name=Iblis
+NoDisplay=true
+Terminal=false
+Type=Application
+
